@@ -1,0 +1,32 @@
+The main differences between the Waterfall and Agile models are as follows:
+
+Approach: The Waterfall model follows a sequential approach, where each 
+phase of the software development life cycle is completed before moving 
+on to the next phase. In contrast, the Agile model follows an iterative 
+and incremental approach, where the software is developed in small iterations,
+and each iteration involves the planning, design, development, and testing 
+of a working software increment.
+
+Flexibility: The Waterfall model is less flexible, as it requires all 
+requirements to be defined upfront, and any changes require going back
+to the beginning of the development cycle. On the other hand, Agile is
+more flexible, as changes can be accommodated throughout the development
+process, and each iteration can incorporate feedback from the previous
+iteration.
+
+Feedback: In the Waterfall model, feedback is limited, and any changes 
+require a formal change request process. In contrast, the Agile model 
+emphasizes regular feedback, which allows the development team to make
+changes and adjustments throughout the development process.
+
+Delivery: The Waterfall model aims to deliver the final product at 
+the end of the development cycle, while Agile aims to deliver a working
+software increment after each iteration.
+
+Testing: In the Waterfall model, testing is performed at the end of the
+development cycle, while in Agile, testing is an ongoing process and is 
+integrated into each iteration.
+
+Overall, Agile is considered more suitable for complex projects with
+changing requirements, while the Waterfall model is better suited for
+projects with well-defined requirements and a fixed scope.
