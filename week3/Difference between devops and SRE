@@ -1,0 +1,9 @@
+DevOps and Site Reliability Engineering (SRE) are two related but distinct approaches to software development and operations.
+
+DevOps is a set of practices that combines software development and IT operations to enable the rapid and continuous delivery of high-quality software. DevOps
+focuses on improving collaboration between development and operations teams, promoting automation, and ensuring that software is delivered quickly, reliably, and
+securely.
+
+SRE, on the other hand, is a more specific approach to operations that focuses on the reliability and availability of software systems. SRE combines software 
+engineering and operations to build and operate large-scale, complex, and distributed systems. SRE aims to ensure that software systems are available and performant, 
+by applying software engineering principles to operations, such as automation, monitoring, and incident response.
