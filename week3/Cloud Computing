@@ -1,0 +1,10 @@
+Cloud computing refers to the delivery of computing services, including servers, storage, databases, networking, software, and analytics, over the internet
+("the cloud"). Instead of hosting these resources on-premises, cloud computing enables users to access them on demand from anywhere with an internet connection.
+
+There are several types of cloud computing services, including:
+
+Infrastructure as a Service (IaaS): Provides virtualized computing resources, such as servers, storage, and networking, on a pay-per-use basis.
+
+Platform as a Service (PaaS): Provides a platform for developing, testing, and deploying applications, without the need to manage the underlying infrastructure.
+
+Software as a Service (SaaS): Provides access to software applications over the internet, typically on a subscription basis.
