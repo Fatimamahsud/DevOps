@@ -8,3 +8,35 @@ Infrastructure as a Service (IaaS): Provides virtualized computing resources, su
 Platform as a Service (PaaS): Provides a platform for developing, testing, and deploying applications, without the need to manage the underlying infrastructure.
 
 Software as a Service (SaaS): Provides access to software applications over the internet, typically on a subscription basis.
+
+There are five essential characteristics of cloud computing that define this technology:
+
+On-demand self-service: Users can easily and quickly provision computing resources, such as servers, storage, and networking, without the need for human intervention.
+
+Broad network access: Cloud services are available over the internet from a wide range of devices, including laptops, smartphones, and tablets.
+
+Resource pooling: Cloud providers consolidate computing resources, such as servers and storage, to create a shared pool of resources that can be allocated dynamically
+to users based on demand.
+
+Rapid elasticity: Cloud services can quickly and easily scale up or down in response to changes in demand, enabling organizations to be more agile and responsive.
+
+Measured service: Cloud providers typically charge users for their usage of computing resources on a pay-per-use basis, providing transparency and accountability for 
+resource consumption.
+
+Cloud deployment models refer to the different ways in which cloud services can be deployed and made available to users. There are four main cloud deployment models:
+
+Public cloud: In a public cloud deployment model, computing resources are owned and operated by a cloud provider, and made available to customers over the internet
+on a pay-per-use basis. Public clouds are generally the most affordable option, and can be used by organizations of all sizes.
+
+Private cloud: In a private cloud deployment model, computing resources are owned and operated by a single organization, either on-premises or in a data center, and
+are not shared with other users. Private clouds offer greater security and control, but can be more expensive to set up and maintain.
+
+Hybrid cloud: In a hybrid cloud deployment model, computing resources are spread across a combination of public and private clouds, allowing organizations to take 
+advantage of the benefits of both models. Hybrid clouds are often used by organizations that need to store sensitive data on a private cloud, while using a public 
+cloud for less sensitive workloads.
+
+Community cloud: In a community cloud deployment model, computing resources are shared by a group of organizations with shared interests or requirements, such as 
+a group of healthcare providers or government agencies. Community clouds offer cost savings and greater collaboration between organizations, but require careful
+management to ensure data privacy and security.
+
+
